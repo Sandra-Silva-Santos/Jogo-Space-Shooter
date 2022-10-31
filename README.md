@@ -1,14 +1,10 @@
 # Space Shooter
 
-### Bootcamp JavaScript Game Developer DIO
+## Bootcamp JavaScript Game Developer DIO
 
 ###### Desafio: Criar o Jogo Space Shooter usando HTML CSS e JavaScript
 
 ![](img/jogo.png)
-
-## 👁️‍🗨️ Preview
-
-Link para visualizar: [Ver Demo]()
 
 ## 🛠️ **Tecnologias**
 
